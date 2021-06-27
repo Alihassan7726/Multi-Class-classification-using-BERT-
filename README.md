@@ -5,7 +5,8 @@ unlabeled text by jointly conditioning on both left and right context in all lay
 
 For indepth explanation see the original paper : https://arxiv.org/pdf/1810.04805.pdf
 
-Checkout my blogpost for practical implementation of state-of-art BERT in tensorflow : 
+Checkout my blogpost for practical implementation of state-of-art BERT in tensorflow : https://medium.com/nerd-for-tech/multi-class-classification-using-bert-3e02a050170d
+
 
 ![image](https://miro.medium.com/max/740/1*G6PYuBxc7ryP4Pz7nrZJgQ@2x.png)
 
